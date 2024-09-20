@@ -11,5 +11,11 @@ nav{
 nav ul{
     display: flex;
     justify-content: space-evenly;
+    
+}
+
+ul li {
+    list-style-type: none;
+    
 }
 
