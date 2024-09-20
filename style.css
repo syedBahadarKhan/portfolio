@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    background-color: rgb(50, 45, 45) ;
+    height: 45px;
+    width: 100%;
+}
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
